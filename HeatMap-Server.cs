@@ -4,8 +4,6 @@ using System.Text;
 using System.Net;
 using System.Threading.Tasks;
 
-//test
-
 namespace HeatMapServer {
     class HttpServer {
         public static HttpListener listener;
